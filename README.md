@@ -1,2 +1,2 @@
-# jnjack-FinalProject
-Resume test website
+# JJportfoloio
+Javan Jack's current portfolio
