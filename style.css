@@ -47,7 +47,7 @@ section {float: left;width:33%; padding-left: 2em; padding-right: 2em; }
 
 
 
-@media (min-width: 600px) {  /* Image details */
+@media (min-width: 600px) {  /* website on phone details */
 	nav ul{
 		display: flex;
 		flexflow: row nowrap;
@@ -86,7 +86,7 @@ section {float: left;width:33%; padding-left: 2em; padding-right: 2em; }
 }
 }
 
-@media (min-width: 1024px) { /* Large image details */
+@media (min-width: 1024px) { /* Website on computer details */
 	nav ul {
 		display: flex;
 		flex-direction: column;
